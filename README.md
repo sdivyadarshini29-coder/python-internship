@@ -1,1 +1,1 @@
-# python-internship
+# DATA SCIENCE INTERNSHIP
